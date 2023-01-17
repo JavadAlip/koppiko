@@ -1,0 +1,169 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    margin-top: -30px;
+}
+.kopiko{
+    font-family: 'PT Serif', serif;
+    font-size: 30px;
+    color: #b7b7b7;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    letter-spacing: 6.5px;
+    
+}
+.kopiko:hover{
+    color:#db4f3d;
+}
+.sub{
+    position: relative;
+    top: 45px;
+    letter-spacing: 5px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    color: #b7b7b7;
+    text-align: center;
+    
+}
+.paragraph{
+    background-color: black;
+    height: auto;
+    width: 100%;
+
+}
+.para1{
+    position: relative;
+    top: 120px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #b7b7b7;
+}
+.para2{
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: var(--e-global-color-text );
+}
+.picture3{
+    padding-top: 80px;
+}
+.aa{
+    justify-content: space-around !important;
+}
+.lasttt{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+    font-size: 25px;
+
+}
+.social{
+color: white;
+size: 30px;
+position: relative;
+top: 150px;
+}
+.fa-facebook {
+    color: white;
+}
+.fa-facebook:hover{
+    color: #3b5998;
+}
+
+.fa-square-instagram{
+    color: white;
+}
+.fa-square-instagram:hover{
+    color: #dd2a7b;
+}
+
+.fa-linkedin{
+    color: white;
+}
+.fa-linkedin:hover{
+    color: #0A66C2;
+}
+
+.fa-youtube{
+    color: white;
+}
+.fa-youtube:hover{
+    color: red;
+}
+
+.copyrighted{
+    padding-top: 60px;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#home{
+    color: white;
+}
+#home:hover{
+    color: #db4f3d;
+}
+#shop{
+    color: white;
+}
+#shop:hover{
+    color: #db4f3d;
+}
+#news{
+    color: white;
+}
+#news:hover{
+    color: #db4f3d;
+}
+#about{
+    color: white;
+}
+#about:hover{
+    color: #db4f3d;
+}
+#contact{
+    color: white;
+}
+#contact:hover{
+    color: #db4f3d;
+}
+#navbarDropdownMenuLink{
+    color: white;
+}
+#navbarDropdownMenuLink:hover{
+    color: #db4f3d;
+}
+.koppiko:hover{
+    color:#db4f3d;
+}
+.wen:hover{
+    color:#db4f3d;
+}
+.cright{
+    color:white;
+}
+.cright:hover{
+    color:#db4f3d;
+}
+.last1{
+    color: #b7b7b7;
+}
